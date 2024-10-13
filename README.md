@@ -12,3 +12,8 @@ Still, that is insufficient to achieve the unique goal of highlighting only diag
 I feel it would be helpful to other researchers who are working on similar issues or are interested in plotting square matrices with matched pairs.
 
 The plot.matrix is the package available in R for this purpose. We explore the options through this package to highlight diagonal cells of the matrix.
+
+The solution I am providing here is a bit lengthy and wouldn't be appropriate when we have a large number of matrices to be plotted. I have tried other solutions as well with image() and with for loops. But again, I have not received the desired outcome.
+
+
+
